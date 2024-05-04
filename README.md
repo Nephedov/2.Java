@@ -1,14 +1,14 @@
 # Домашнее задание к занятию «Введение в Java»
 
 ## Решение
-  * Баг-репорт <a href="https://github.com/Nephedov/2.Java/issues/1#issue-1373813595">Неверный результат расчета при вычислении количества куриных бедер</a>.
+  * <a href="https://github.com/Nephedov/2.Java/issues/1">Баг-репорт</a> - Неверный результат расчета при вычислении количества куриных бедер.
 
 ## Что было сделано
   * Установлена IntelliJ IDEA.
   * Создан проект на базе Java 11.
-  * Создан класс Main.java.
-  * Сделан коммит и пуш на github проекта.
-  * Заведен баг репорт. 
+  * Создан класс <a href="https://github.com/Nephedov/2.Java/blob/main/src/Main.java">Main.java</a>.
+  * Сделан коммит и пуш проекта на Github.
+  * Заведен <a href="https://github.com/Nephedov/2.Java/issues/1">баг-репорт</a>. 
 
 ## Задание. Рецепт 
 
